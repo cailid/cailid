@@ -1,0 +1,27 @@
+url: https://commons.wikimedia.org/wiki/File:Pedar_Severin_Kr%C3%B8yer,_by_Pedar_Severin_Kr%C3%B8yer.JPG
+url_desc: https://upload.wikimedia.org/wikipedia/commons/7/75/Pedar_Severin_Kr%C3%B8yer%2C_by_Pedar_Severin_Kr%C3%B8yer.JPG
+license: public_domain
+tags: real_person, public_figure, no_hflip
+info: s0(man,Peder Severin Krøyer,glasses(pince-nez),hat(white,bucket hat),beard(full,brown),hair(brown),shirt(white),vest(gray),coat(white),hand(right,brush(to(s1))),head shot),s1(canvas,away from(viewer)),env(sky(blue,clear),sea(blue),horizon,signature('S.K-1888')),medium(painting,oil on canvas,Peder Severin Krøyer,1888)
+---
+url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Selvportr%C3%A6t%2C_siddende_ved_staffeliet_p%C3%A5_Skagens_strand.jpg
+url_desc: https://commons.wikimedia.org/wiki/File:Selvportr%C3%A6t,_siddende_ved_staffeliet_p%C3%A5_Skagens_strand.jpg
+license: public_domain
+tags: real_person, public_figure, no_hflip
+info: s0(man,Peder Severin Krøyer,bucket hat(white),beard(full,brown),hair(brown),shirt(white,bow tie(white)),vest(white),coat(white),hand(right,little finger(ring),brush(to(s1))),hand(left,palette),3/4 body shot),s1(canvas,away from(viewer)),env(sky(blue,clouds(few,white)),sea(blue),horizon,signature('S.Krøyer','Skagen.1902')),medium(painting,oil on canvas,Peder Severin Krøyer,1902)
+---
+url: https://upload.wikimedia.org/wikipedia/commons/4/44/P.S._Kr%C3%B8yers_sidste_selvportr%C3%A6t.jpg
+url_desc: https://commons.wikimedia.org/wiki/File:P.S._Kr%C3%B8yers_sidste_selvportr%C3%A6t.jpg
+tags: real_person, public_figure, no_hflip
+info: s0(man,Peder Severin Krøyer,glasses(pince-nez),panama hat(white,band(black)),beard(full,brown,white),hair(brown),shirt(white,bow tie(white)),vest(white),coat(white),head shot),env(sky(blue),sea(blue),horizon,text('Til Michael Ancher','8 Juli 1909.','Fra Severin'),signature('S.K','Skagen','Juli 1909')),medium(painting,oil on canvas,Peder Severin Krøyer,1909)
+---
+url: https://upload.wikimedia.org/wikipedia/commons/9/9c/Peder_Severin_Kr%C3%B8yer_-_Selvportr%C3%A6t._Brystbillede_med_lys_Filthat_-_1898.png
+url_desc: https://commons.wikimedia.org/wiki/File:Peder_Severin_Kr%C3%B8yer_-_Selvportr%C3%A6t._Brystbillede_med_lys_Filthat_-_1898.png
+tags: real_person, public_figure, no_hflip
+info: s0(man,Peder Severin Krøyer,glasses(pince-nez),felt hat(white),beard(full,brown),hair(brown),coat(white),cigar,head shot,profile),env(panel(wood),white,black,signature('SK','18-19 Aug','98')),medium(painting,oil on panel,Peder Severin Krøyer,1898)
+---
+url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Peder_Severin_Kr%C3%B8yer_-_Selvportr%C3%A6t_%281888%29.jpg
+url_desc: https://commons.wikimedia.org/wiki/File:Peder_Severin_Kr%C3%B8yer_-_Selvportr%C3%A6t_(1888).jpg
+license: public_domain
+tags: real_person, public_figure, no_hflip
+info: s0(man,Peder Severin Krøyer,glasses(pince-nez),hat(white,bucket hat),beard(full,brown),hair(brown),shirt(white),vest(gray),coat(gray),hand(right,brush(to(s1))),head shot),s1(canvas,away from(viewer)),env(sky(blue,clear),sea(blue),horizon,signature('S.K-88')),medium(painting,oil on canvas,Peder Severin Krøyer,1888)

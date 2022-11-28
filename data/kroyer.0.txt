@@ -2,7 +2,7 @@ url: https://commons.wikimedia.org/wiki/File:Pedar_Severin_Kr%C3%B8yer,_by_Pedar
 url_desc: https://upload.wikimedia.org/wikipedia/commons/7/75/Pedar_Severin_Kr%C3%B8yer%2C_by_Pedar_Severin_Kr%C3%B8yer.JPG
 license: public_domain
 tags: real_person, public_figure, no_hflip
-info: s0(man,Peder Severin Krøyer,glasses(pince-nez),hat(white,bucket hat),beard(full,brown),hair(brown),shirt(white),vest(gray),coat(white),hand(right,brush(to(s1))),head shot),s1(canvas,away from(viewer)),env(sky(blue,clear),sea(blue),horizon,signature('S.K-1888')),medium(painting,oil on canvas,Peder Severin Krøyer,1888)
+info: s0(man,Peder Severin Krøyer,glasses(pince-nez),bucket hat(white),beard(full,brown),hair(brown),shirt(white),vest(gray),coat(white),hand(right,brush(to(s1))),head shot),s1(canvas,away from(viewer)),env(sky(blue,clear),sea(blue),horizon,signature('S.K-1888')),medium(painting,oil on canvas,Peder Severin Krøyer,1888)
 ---
 url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Selvportr%C3%A6t%2C_siddende_ved_staffeliet_p%C3%A5_Skagens_strand.jpg
 url_desc: https://commons.wikimedia.org/wiki/File:Selvportr%C3%A6t,_siddende_ved_staffeliet_p%C3%A5_Skagens_strand.jpg
@@ -24,4 +24,4 @@ url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Peder_Severin_Kr%C3%B8y
 url_desc: https://commons.wikimedia.org/wiki/File:Peder_Severin_Kr%C3%B8yer_-_Selvportr%C3%A6t_(1888).jpg
 license: public_domain
 tags: real_person, public_figure, no_hflip
-info: s0(man,Peder Severin Krøyer,glasses(pince-nez),hat(white,bucket hat),beard(full,brown),hair(brown),shirt(white),vest(gray),coat(gray),hand(right,brush(to(s1))),head shot),s1(canvas,away from(viewer)),env(sky(blue,clear),sea(blue),horizon,signature('S.K-88')),medium(painting,oil on canvas,Peder Severin Krøyer,1888)
+info: s0(man,Peder Severin Krøyer,glasses(pince-nez),bucket hat(white),beard(full,brown),hair(brown),shirt(white),vest(gray),coat(gray),hand(right,brush(to(s1))),head shot),s1(canvas,away from(viewer)),env(sky(blue,clear),sea(blue),horizon,signature('S.K-88')),medium(painting,oil on canvas,Peder Severin Krøyer,1888)
